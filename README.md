@@ -4,7 +4,7 @@ To run this Application Please note:
 
 1. You should have compatible Java Version 17 and above
 2. There should exist a Mongo-DB database "mydb"
-3. There should exist a Mongo-db collection "users"
+3. There should exist a Mongo-db collection "users" with fields: id(auto generated), name, email, age
 
 To run the Application, click run on your local machine and Open the below link
 "http://localhost:8080/swagger-ui.html#/"
